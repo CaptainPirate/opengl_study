@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d6c52b54f8a54864b1360257aafaf3476c2942f6">
+        <dex dex="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1d3cdd74067942f7b4656919c718945a13b3b2f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_c14efbee05c161b22740c6ff374911ef08b26770/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_96635dfb57286c947b23628ad5a6727b5a304d87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_c222f1251864d860faaf8cf379970254a606c819/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_fc000586bd7c8ad15aa4fb84b6ac76e2779d2145/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_f25125ed5ba472b944186f4ec2ecbea2e46e77b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_6b289cb1ebe4293be76abae45dc1d52ce9fda80f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_6aa8892313de7ac79cbf2cd7dddac42b443eccd6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/disk/work/SDK/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_003e8244091354ff08d2f4bb60e22850d1527f43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_acc5c24e95bb5246976f8ff5b5c328491787e511/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_0c2e76f174319ee9ba0791f039685fe0484ffe84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_b84b2c93f8ea728463f63e5a5a559faf22149f6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1d4c88e5e8ccc0d24d02bb4cbc07cf2b2067ec0a">
+        <dex dex="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9cc62cc785b4f4eac8731bcc9fb264a4b79d44bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_511e65ca97912a8132a811e08a3a050595d81f57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_4beca85c5fb292024fa45854d08c512719718e70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_592f6b70e98c2006e38687de4a3ed1ebb82e18c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_c41bae236e2178866c88ea797f75ac81c7208f76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/media/disk/git/AndroidOpenGLDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.0_bd7cd1ef85a97fd598e574062f5899d59309d8e6/classes.dex" />
+    </item>
+
+</items>
